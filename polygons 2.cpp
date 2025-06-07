@@ -1,6 +1,6 @@
 // Polygonal Waveform Synth created by Fabian Martinez
 // https://github.com/FabianMartinez    
-// This code is licensed under the GNU General Public License v3.0 (GPL-3.0).
+// This code is licensed under the MIT License.
 
 /*
 ============
