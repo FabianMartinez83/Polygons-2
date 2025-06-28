@@ -553,7 +553,7 @@ void step(_NT_algorithm* self_, float* busFrames, int numFramesBy4)
 }
 
 static const _NT_factory factory = {
-    .guid = NT_MULTICHAR('P','O','L','2'),
+    .guid = NT_MULTICHAR('F','M','P','2'),
     .name = "Polygonal Waveform",
     .description = "Polygonal/Polyhedron/Lissajous/Star/Heart/Biciclette/Sun/Nested Circles/Snail/Lemon/Butterfly Waveform Synth (Stereo)",
     .numSpecifications = 0,
